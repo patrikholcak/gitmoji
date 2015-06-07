@@ -1,0 +1,19 @@
+{
+  "name": "gitmoji",
+  "version": "1.0.0",
+  "description": "Replaces your average git log emoji strings with the real deal.",
+  "main": "index.js",
+  "bin": {
+    "gitmoji": "./index.js"
+  },
+  "author": "Patrik Holcak <patrik@holcak.com> @patrik774",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patrikholcak/gitmoji.git"
+  },
+  "dependencies": {
+    "wemoji": "^0.1.9"
+  },
+  "readme": "README.md"
+}
