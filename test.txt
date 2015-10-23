@@ -1,0 +1,5 @@
+:cat: Cat message
+:x: Another message
+:omg: Some invalid emoji code
+:pencil2: Some other message
+:sparkles: Message
