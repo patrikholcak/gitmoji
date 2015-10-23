@@ -1,6 +1,6 @@
 {
   "name": "gitmoji",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Replaces your average git log emoji strings with the real deal.",
   "main": "index.js",
   "license": "MIT",
