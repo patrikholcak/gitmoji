@@ -9,5 +9,4 @@ elif ! [[ -z "$PAGER" ]]; then
   pager=$PAGER
 fi
 
-cat $1 | $pager
-rm $1
+echo "$1" | $pager
